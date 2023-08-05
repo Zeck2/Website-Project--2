@@ -22,8 +22,7 @@ html{
 }
 body{
 	background: linear-gradient(#CFB288, #DACAB0, #F8F7F2); 
-	margin: 30px 50px; 
-	line-height: 1.4;
+	line-height: 2.4;
 }
 .btn{ 
 	background: var(--dark); 
