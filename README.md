@@ -1,6 +1,9 @@
 # Website-Project--2
 A website Project about fixing a company's outdated technology components. 
 Contains several webpages that will suggest technological solutions for the problem.
+
+This is a Website Project requirement for the course Introduction to Computing
+
 <li> HOME - An executive summary to describe the requirements.
 <li> PRODUCTS - Propose a list of good hardware and software for this plan.
 <li> SOLUTION - Suggest what type of computer network is best for this plan.
