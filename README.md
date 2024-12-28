@@ -14,3 +14,4 @@ Here is the link: https://zeck3.github.io/Website-Project-2/
 ## Bugs
 - Optimization issues with loading resources
 - Some images did not load correctly
+- Not responsive enough
