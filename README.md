@@ -1,4 +1,4 @@
-# Website-Project--2
+# ABC Lending Company
 A website Project about fixing a company's outdated technology components. Contains several webpages that will suggest technological solutions for the problem. This is a Website Project requirement for the course Introduction to Computing.
 
 Includes the following pages:
