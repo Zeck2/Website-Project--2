@@ -1,7 +1,5 @@
 # Website-Project--2
-A website Project about fixing a company's outdated technology components. 
-Contains several webpages that will suggest technological solutions for the problem.
-This is a Website Project requirement for the course Introduction to Computing.
+A website Project about fixing a company's outdated technology components. Contains several webpages that will suggest technological solutions for the problem. This is a Website Project requirement for the course Introduction to Computing.
 
 Here is the link: https://zeck3.github.io/Website-Project-2/
 
